@@ -1,5 +1,6 @@
 # Refactoring-Improving-the-Design-of-Existing-Code
 任何一个傻瓜都能写出计算机可以理解的代码。唯有写出人类容易理解的代码，才是优秀的程序员。
+
 重构：改善既有代码的设计  (【美】Martin Fowler 著 熊节 译 机械工业出版社 ） 书中涉及源码
 
 [![GitHub stars](https://img.shields.io/github/stars/loveincode/Refactoring-Improving-the-Design-of-Existing-Code.svg?style=social&label=Stars)](https://github.com/loveincode/Refactoring-Improving-the-Design-of-Existing-Code)
